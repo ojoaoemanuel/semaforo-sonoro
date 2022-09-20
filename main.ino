@@ -1,3 +1,4 @@
+
 class SemaforoPino {
   int Luz;
   
